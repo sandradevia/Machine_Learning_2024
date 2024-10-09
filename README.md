@@ -10,5 +10,9 @@
             <td>Nim</td>
             <td>2241720222</td>
         </tr>
+        <tr>
+            <td>Kelas</td>
+            <td>3F</td>
+        </tr>
     </tbody>
 </table>
